@@ -56,14 +56,14 @@ location:
 
 # Quellen ein-/ausschalten. Schlüssel entsprechen den Adapter-Namen.
 sources:
-  geizhals: false
+  geizhals: true
   idealo: false
   mediamarkt: true
   saturn: false
   obi: true
   bauhaus: true
   hornbach: false
-  amazon: false
+  amazon: true
   greensun: false
 
 # Tägliche "lebt noch"-Statusmeldung via Telegram (günstigster Preis je Gerät,
